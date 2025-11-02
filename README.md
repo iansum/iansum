@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 
 <!--
 **iansum/iansum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# 👋 Hi, I'm Ian Dominic Sumpay
+
+🎓 Recent Computer Science graduate passionate about web development and data visualization.  
+🌱 Currently learning **React**, **Vite**, and **frontend performance optimization**.  
+💻 Building projects with **HTML**, **CSS**, **JavaScript**, and **HTML**.  
+📈 Aspiring to create tools that make data easier to understand and use.
+
+---
+
+### 🧰 Tech Stack
+- HTML, CSS, JavaScript
+- MERN, NextJS
+- Python, Pandas, Matplotlib
+
+---
+
+### 📊 GitHub Stats
+![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianDominic&show_icons=true&theme=github_dark)
+
+---
+
+📫 **Reach me at:** [LinkedIn](#) | [Email](#)
