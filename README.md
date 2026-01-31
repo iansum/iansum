@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### 🧰 Tech Stack
 - HTML, CSS, JavaScript
-- MERN, NextJS
+- MERN, NextJS, Spring-Boot
 - Python, Pandas, Matplotlib
 
 ---
