@@ -18,23 +18,12 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Ian Dominic Sumpay
 
-🎓 Recent Computer Science graduate passionate about web development and data visualization.  
-🌱 Currently learning **React**, **Vite**, and **frontend performance optimization**.  
-💻 Building projects with **HTML**, **CSS**, **JavaScript**, and **HTML**.  
-📈 Aspiring to create tools that make data easier to understand and use.
-
+A graduate of Bachelor of Science in Comptuer Science
+I knew C, C++ which I have used in compettive programming contest
+I used JavaScript, Java, Python and some of their frameworks to build projects
+I am curious what is underhood the code, I am curious how data flows in a system, and how component interacts
+I am a person who not just want to use tools, but also want to understand them: the structure; architecture; design; and philosphy
+I have created project using MERN stack (JavaScript), Spring-Boot (Java), and Flask (Python)
 ---
 
-### 🧰 Tech Stack
-- HTML, CSS, JavaScript
-- MERN, NextJS, Spring-Boot
-- Python, Pandas, Matplotlib
-
----
-
-### 📊 GitHub Stats
-![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianDominic&show_icons=true&theme=github_dark)
-
----
-
-📫 **Reach me at:** [LinkedIn](#) | [Email](#)
+📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/ian-dominic-sumpay-62b099296/) | 
